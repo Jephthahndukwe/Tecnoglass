@@ -122,9 +122,9 @@ const Navbar: React.FC<CarouselProps> = ({ view, submitHandler, navData, updateT
                 <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href='#sec1'>HOME</a>
                 <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec2">ABOUT</a>
                 <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec4">SERVICES</a>
-                <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec5">TEAM</a>
+                {/* <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec5">TEAM</a> */} 
                 <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec6">WORK</a>
-                <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec7">BLOG</a>
+                {/* <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec7">BLOG</a> */} 
                 <a className='text-white text-[0.8rem] font-semibold py-2 text-center' href="#sec8">CONTACT</a>
             </section>
         </>
